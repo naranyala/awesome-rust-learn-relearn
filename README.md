@@ -32,3 +32,14 @@
 [orgs-facebookexperimental](https://github.com/orgs/facebookexperimental/repositories?q=lang%3ARust&type=all&sort=stargazers&referrer=grok.com)
 
 ---
+
+## event-bus
+
+- `numeration/evno` | [repo](https://github.com/numeration/evno) | [lib.rs](https://lib.rs/crates/evno)
+- `Migorithm/ruva` | [repo](https://github.com/Migorithm/ruva) | [lib.rs](https://lib.rs/crates/ruva)
+- `paoloposso/crosstown_bus` | [repo](https://github.com/paoloposso/crosstown_bus) | [lib.rs](https://lib.rs/crates/crosstown_bus)
+- `WeirdPtr/ebus-rs` | [repo](https://github.com/WeirdPtr/ebus-rs) | [lib.rs](https://lib.rs/crates/ebus)
+
+---
+
+
